@@ -290,6 +290,10 @@ body [data-aos="zoom-in"] {
   content: "\e630";
 }
 
+.icon-email:before {
+  content: "\e63c";
+}
+
 .sidebar-btn-wrapper .sidebar-toc-btn:before {
   font-family: "iconfont";
   content: "\e633";
@@ -2829,6 +2833,10 @@ a, .main-nav-icon, .popup-btn-close {
 
 .sidebar-social-icon:hover {
   transform: scale(1.2);
+}
+
+.icon-email {
+  color: var(--red-2);
 }
 
 .sidebar-menu {
