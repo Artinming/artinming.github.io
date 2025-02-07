@@ -414,7 +414,7 @@ a img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
+  font-family: "庄尼李的声明", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
   font-weight: 700;
 }
 
@@ -440,7 +440,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   text-size-adjust: 100%;
-  font-family: "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
+  font-family: "庄尼李的声明", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
   transition: background 1s;
 }
 
@@ -613,7 +613,7 @@ a, .main-nav-icon, .popup-btn-close {
 }
 
 #header-title {
-  font-family: "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
+  font-family: "庄尼李的声明", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
   font-weight: 700;
   text-align: center;
   position: absolute;
