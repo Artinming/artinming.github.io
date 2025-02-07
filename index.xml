@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>庄尼李的虚拟世界</title>
-    <link>http://localhost:1313/</link>
+    <link>https://artinming.github.io/</link>
     <description>Recent content on 庄尼李的虚拟世界</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 04 Feb 2025 13:54:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://artinming.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>庄尼李的声明</title>
-      <link>http://localhost:1313/post/%E5%BA%84%E5%B0%BC%E6%9D%8E%E7%9A%84%E5%A3%B0%E6%98%8E/</link>
+      <link>https://artinming.github.io/post/%E5%BA%84%E5%B0%BC%E6%9D%8E%E7%9A%84%E5%A3%B0%E6%98%8E/</link>
       <pubDate>Tue, 04 Feb 2025 13:54:05 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E5%BA%84%E5%B0%BC%E6%9D%8E%E7%9A%84%E5%A3%B0%E6%98%8E/</guid>
-      <description>&lt;p&gt;大家好，我是庄尼李，一名12岁的初中生，这是我自己搭建的博客 &lt;br&gt;&#xA;以后我会在这里记录教程与生活！&lt;br&gt;&#xA;github账号：https://github.com/Artinming/ &lt;br&gt;&#xA;B站账号：https://space.bilibili.com/599954582 &lt;br&gt;&#xA;知乎账号：https://www.zhihu.com/people/dream-75-66-81 （已停更）&lt;br&gt;&#xA;希望大家多多鼓励与支持！&#xA;THE BEST WISH&lt;/p&gt;</description>
+      <guid>https://artinming.github.io/post/%E5%BA%84%E5%B0%BC%E6%9D%8E%E7%9A%84%E5%A3%B0%E6%98%8E/</guid>
+      <description>&lt;p&gt;大家好，我是庄尼李，一名12岁的初中生，这是我自己搭建的博客 &lt;br&gt;&#xA;以后我会在这里记录教程与生活！&lt;br&gt;&#xA;github账号：https://github.com/Artinming/ &lt;br&gt;&#xA;B站账号：https://space.bilibili.com/599954582 &lt;br&gt;&#xA;知乎账号：https://www.zhihu.com/people/dream-75-66-81 （已停更）&lt;br&gt;&#xA;希望大家多多鼓励与支持！&#xA;THE BEST WISH!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://artinming.github.io/about/</link>
       <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://artinming.github.io/about/</guid>
       <description>&lt;p&gt;站长：Johnny Li&lt;/p&gt;</description>
     </item>
     <item>
       <title>友情链接</title>
-      <link>http://localhost:1313/friend/</link>
+      <link>https://artinming.github.io/friend/</link>
       <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
-      <guid>http://localhost:1313/friend/</guid>
+      <guid>https://artinming.github.io/friend/</guid>
       <description>&lt;h2 id=&#34;本站信息&#34;&gt;&#xD;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%e6%9c%ac%e7%ab%99%e4%bf%a1%e6%81%af&#34;&gt;&lt;/a&gt;&#xD;&#xA;本站信息&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;站名： 庄尼李的博客&lt;/li&gt;&#xA;&lt;li&gt;站长： 庄尼李&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;申请方法&#34;&gt;&#xD;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%e7%94%b3%e8%af%b7%e6%96%b9%e6%b3%95&#34;&gt;&lt;/a&gt;&#xD;&#xA;申请方法&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;添加本站后，在本页留言，格式如下&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;l&#34;&gt;```yml&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#您的名字&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#您的网址&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;desc&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#简短描述&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#一张图片&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;l&#34;&gt;```&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;小伙伴们&#34;&gt;&#xD;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%e5%b0%8f%e4%bc%99%e4%bc%b4%e4%bb%ac&#34;&gt;&lt;/a&gt;&#xD;&#xA;小伙伴们&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;friend-wrap&#34; data-aos=&#34;zoom-in&#34;&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;div class=&#34;friend-item-wrap&#34;&gt;&#xD;&#xA;      &lt;a href=&#34;https://d-sketon.github.io/&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xD;&#xA;      &lt;div class=&#34;friend-icon-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-icon&#34;&gt;&#xD;&#xA;          &lt;img&#xD;&#xA;            data-src=&#34;https://d-sketon.github.io/avatar/avatar.webp&#34;&#xD;&#xA;            data-sizes=&#34;auto&#34;&#xD;&#xA;            alt=&#34;D-Sketon&#34;&#xD;&#xA;            class=&#34;lazyload&#34;&#xD;&#xA;          /&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;div class=&#34;friend-info-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-name&#34;&gt;&#xD;&#xA;          D-Sketon&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;friend-desc&#34;&gt;&#xD;&#xA;          Hexo 建站&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;    &lt;div class=&#34;friend-item-wrap&#34;&gt;&#xD;&#xA;      &lt;a href=&#34;https://d-sketon.github.io/astro-theme-reimu/&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xD;&#xA;      &lt;div class=&#34;friend-icon-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-icon&#34;&gt;&#xD;&#xA;          &lt;img&#xD;&#xA;            data-src=&#34;https://d-sketon.github.io/avatar/avatar.webp&#34;&#xD;&#xA;            data-sizes=&#34;auto&#34;&#xD;&#xA;            alt=&#34;D-Sketon&#34;&#xD;&#xA;            class=&#34;lazyload&#34;&#xD;&#xA;          /&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;div class=&#34;friend-info-wrap&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;friend-name&#34;&gt;&#xD;&#xA;          D-Sketon&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;friend-desc&#34;&gt;&#xD;&#xA;          Astro 建站&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

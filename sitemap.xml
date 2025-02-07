@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://artinming.github.io/post/</loc>
     <lastmod>2025-02-04T13:54:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/%E5%BA%84%E5%B0%BC%E6%9D%8E%E7%9A%84%E5%A3%B0%E6%98%8E/</loc>
+    <loc>https://artinming.github.io/post/%E5%BA%84%E5%B0%BC%E6%9D%8E%E7%9A%84%E5%A3%B0%E6%98%8E/</loc>
     <lastmod>2025-02-04T13:54:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://artinming.github.io/</loc>
     <lastmod>2025-02-04T13:54:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://artinming.github.io/archives/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://artinming.github.io/about/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/friend/</loc>
+    <loc>https://artinming.github.io/friend/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://artinming.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://artinming.github.io/tags/</loc>
   </url>
 </urlset>
