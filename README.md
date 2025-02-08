@@ -1,2 +1,2 @@
 # artinming.github.io
-Johnny Li's blog！
+Johnny Li's blog！!
